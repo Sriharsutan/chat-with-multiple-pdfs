@@ -1,3 +1,5 @@
-cmp-venv/
+pdfs-venv/
 
 .env
+
+__pycache__/
