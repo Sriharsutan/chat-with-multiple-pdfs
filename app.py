@@ -112,7 +112,7 @@ def handle_user_input(input):
 
 def main():
     load_dotenv()
-    os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+    #os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
     st.set_page_config(page_title="Chat with Multiple PDFs", page_icon=":books:")
 
     st.write(css, unsafe_allow_html=True)
